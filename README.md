@@ -1,5 +1,5 @@
 # A couple of projects!
-Algunos projectos que hice este año pero que no subi, pero ahora es necesario para mis pustulaciones:)
+Algunos projectos que he hecho este año pero que no subi, pero ahora es necesario para mostrar mi progreso :)
 
 
 ## Detection de corazon defectuoso(sklearn y modelo predictivo)
